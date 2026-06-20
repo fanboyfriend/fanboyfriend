@@ -6,6 +6,8 @@
 <p align="center">simon/clover he/him 23</p>
 <p align="center"> <a href="https://rentry.co/boymeetsxx">general rentry</a> >⩊< <a href="https://toyhou.se/39025176.pokki">toyhouse</a> </p>
 <p align="center">
+  <p align="center"> <a href="https://artfight.net/~fanboyfriend">artfight</a></p>
+<p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=ipm020dnn4cysncsr7wtsxxsv&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=true&profanity=false&hide_remaster=false&bar_color=94dfe2&bar_color_cover=false">
   </a>
