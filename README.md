@@ -12,5 +12,5 @@
   </a>
 </p>
 <p align="center">
-![](https://komarev.com/ghpvc/?username=fanboyfriend&color=dc143c&style=plastic&label=visitors)
+![](https://komarev.com/ghpvc/?username=fanboyfriend&color=94dfe2&style=plastic&label=visitors)
 </p>
