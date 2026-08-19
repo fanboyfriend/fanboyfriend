@@ -6,7 +6,7 @@
   </a>
 </p>
     <p align="center">simon/clover ༝ he/him ༝ 23</p>
-<p align="center"><a href="https://rentry.co/boymeetsxx">rentry</a> 𑄝੭ <a href="https://toyhou.se/fanboyfriend">toyhouse</a></p>
+<p align="center"><a href="https://rentry.co/taochiii">rentry</a> 𑄝੭ <a href="https://toyhou.se/fanboyfriend">toyhouse</a></p>
 <p align="center">⪩ ⪨ ꠹
 </p>
 <p align="right">
